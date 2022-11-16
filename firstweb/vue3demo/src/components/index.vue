@@ -8,7 +8,7 @@
                 <el-col :span="6"><div class="grid">1</div></el-col>
             </el-row>
         </el-header>
-        <el-container/>
+        </el-container>
         <el-container>
             <el-aside width="700px">
                 <el-carousel type="card" height="500px">
@@ -20,14 +20,7 @@
             <el-main>
                 111
             </el-main>
-        <el-container/>
-
-    <div class="carousel">
-
-    </div>
-    <div class="recommend">
-
-    </div>
+        </el-container>
 </template>
 
 <script>
